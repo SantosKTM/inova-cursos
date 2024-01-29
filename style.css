@@ -163,7 +163,7 @@ header .menu p a:hover {
 
 /* IMAGEM */
 .banner .foto img{
-    width: 600px;    
+    width: 400px;    
 }
 
 
@@ -220,13 +220,9 @@ header .menu p a:hover {
         width: auto;
     }
 
-    .banner .foto{   
-        overflow: hidden; /* Cortar o conteúdo excedente */
-
-    }
     
     .banner .foto img{
-        width: 300px;
+        width: 50%;
     }
   
 }
